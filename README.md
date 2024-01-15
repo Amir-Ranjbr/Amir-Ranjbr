@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Amir-Ranjbr.Amir-Ranjbr" />
 
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8956&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%98%8A;My+name+is+Amir+Ranjbr+%E2%98%BA%EF%B8%8F%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF8956&center=true&vCenter=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%98%8A;I'm+Amir+Ranjbr+%E2%98%BA%EF%B8%8F%E2%9C%8C%EF%B8%8F" alt="Typing SVG" /></a>
 </h1>
 
 <h3 align="center">A passionate Trainee Frontend developer</h3>
@@ -55,13 +55,30 @@
 </div>
 
 <hr/>
-<!-- <h2 align="center">⚡ Stats ⚡</h2>
+ <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-Amir-Ranjbr.vercel.app/?user=Amir-Ranjbr&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-Amir-Ranjbr.vercel.app/api?username=Amir-Ranjbr&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-Amir-Ranjbr.vercel.app/api/top-langs/?username=Amir-Ranjbr&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+<!--- stats & Trophy (start) -->
+<p align="center">
+  <!--- stats (start) -->
+<table align="center">
+<tr border="none">
+<td width="50%" align="center">
+  
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=amir-ranjbr&theme=dark&show_icons=true&count_private=true" />
+  <br></br>
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=amir-ranjbr&theme=dark&hide_border=false" /> 
+</td>
+
+<td width="50%" align="center">
+
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=amir-ranjbr&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  
+  </td>
+</tr>
+</table>
+<!--- stats (end) -->
 </div>
 
 <br/><br/>
@@ -70,22 +87,9 @@
 
 <br/>
 
+
 <div align="center">
-<a href='https://ko-fi.com/V7V4RAK9C' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+<a href='https://ko-fi.com/amir_ranjbr' target='_blank'><img height='64' style='border:0px;height:64px; background-color : #ff38b8;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 </div>
 
 <br/>
-<!--
-**Amir-Ranjbr/Amir-Ranjbr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on my self ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
