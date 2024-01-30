@@ -48,7 +48,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
- 
 <img alt="snake eating my contributions" src="https://github.com/Amir-Ranjbr/Amir-Ranjbr/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
@@ -78,10 +77,9 @@
   </td>
 </tr>
 <div align="center">
-	
+
 
 ![Amir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amir_ranjbr&layout=compact&theme=synthwave)
-
 
 </div>
 
@@ -96,7 +94,6 @@
 
 <br/>
 
-
 <div align="center">
  
 <a href="https://www.buymeacoffee.com/amir.ranjbr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amir.ranjbr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
@@ -104,5 +101,5 @@
 
 <br/>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+        <img src="https://raw.githubusercontent.com/amir-ranjbr/amir-ranjbr/Update/svg/Bottom.svg" />
 </p>
