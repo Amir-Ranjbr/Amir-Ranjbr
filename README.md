@@ -48,7 +48,6 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
 
- 
 <img alt="snake eating my contributions" src="https://github.com/Amir-Ranjbr/Amir-Ranjbr/blob/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
@@ -78,10 +77,9 @@
   </td>
 </tr>
 <div align="center">
-	
+
 
 ![Amir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amir_ranjbr&layout=compact&theme=synthwave)
-
 
 </div>
 
@@ -95,7 +93,6 @@
 <hr/>
 
 <br/>
-
 
 <div align="center">
  
