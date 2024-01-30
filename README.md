@@ -84,6 +84,8 @@
 
 
 </div>
+
+<hr>
 </table>
 <!--- stats (end) -->
 </div>
@@ -101,4 +103,6 @@
 </div>
 
 <br/>
-
+<p align="center">
+        <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+</p>
