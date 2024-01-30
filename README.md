@@ -102,7 +102,4 @@
 <a href="https://www.buymeacoffee.com/amir.ranjbr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=amir.ranjbr&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 </div>
 
-<br/>
-<p align="center">
-        <img src="https://raw.githubusercontent.com/amir-ranjbr/amir-ranjbr/Update/svg/Bottom.svg" />
-</p>
+
