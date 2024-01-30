@@ -94,3 +94,10 @@
 </div>
 
 <br/>
+<div align="center">
+	
+
+![Amir's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=amir_ranjbr&layout=compact&theme=synthwave&v=2)
+
+
+</div>
